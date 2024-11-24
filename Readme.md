@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+# college
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
